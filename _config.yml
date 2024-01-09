@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Agio's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jade Jeong"
+name                     : "I'm Jade Jeong. working. work as a developer."
 description              : "Remember me."
 url                      : "https://agio-kr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
